@@ -1,0 +1,32 @@
+{
+  "total": 1,
+  "pass": 0,
+  "fail": 0,
+  "skip": 1,
+  "classes": [
+    "fnp.project.automation.test.TestRunner"
+  ],
+  "envInfo": {
+    "browser-desired-capabilities": null,
+    "browser-actual-capabilities": {},
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "0",
+      "qaf-Build-Time": "26-Jul-2020 22:16:34",
+      "qaf-Version": "3.0"
+    },
+    "run-parameters": {},
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "15.0.1",
+      "os.arch": "amd64",
+      "host": "LAPTOP-4BK013Q7",
+      "os.name": "Windows 10",
+      "user.name": "vinay",
+      "os.version": "10.0"
+    }
+  },
+  "startTime": 1629042474370,
+  "endTime": 1629042474958
+}
